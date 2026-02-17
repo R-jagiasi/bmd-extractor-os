@@ -8,7 +8,7 @@ A tool for extracting Bone Mineral Density data from medical PDF reports.
 
 **Check out the live app:** [bmd-extractor-osv2.onrender.com](https://bmd-extractor-osv2.onrender.com)
 
-**Landing page:** [View Project](https://landing-liard-pi-15.vercel.app)
+**Landing page:** [bmd-extractor.vercel.app](https://bmd-extractor.vercel.app)
 
 ---
 
