@@ -4,7 +4,7 @@ A tool for extracting Bone Mineral Density data from medical PDF reports.
 
 ---
 
-## 🚀 This project has moved!
+## This project has moved
 
 **Check out the live app:** [bmd-extractor.vercel.app](https://bmd-extractor.vercel.app)
 
@@ -23,6 +23,3 @@ A tool for extracting Bone Mineral Density data from medical PDF reports.
 - SQLite for history
 - Vanilla HTML/CSS/JS frontend
 
----
-
-*Built by [@R-jagiasi](https://github.com/R-jagiasi)*
